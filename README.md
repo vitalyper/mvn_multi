@@ -8,3 +8,4 @@ Sample Maven multi-module project to be used as guinea pig for Clojure POC.
 ## TODO
 
 1.  Clone from existing spring boot samples.
+2. Trigger build
